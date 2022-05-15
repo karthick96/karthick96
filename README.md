@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthick96
-- 👀 I’m interested in Python in Data analytics
+- 👀 I’m interested in Python for Data analytics
 - 🌱 I’m currently learning Computer Vision, NLP
 
 <!---
